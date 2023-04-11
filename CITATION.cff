@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Wong
+    given-names: Renata
+    orcid: https://orcid.org/0000-0001-5468-0716
+title: renatawong/clifford_data_regression_qiskit: Clifford data regression using Qiskit
+version: v2.0.2
+doi: 10.5281/zenodo.7815273
+date-released: 2023-04-11
